@@ -1,0 +1,14 @@
+C:\Users\Nuran\source\repos\10oktyabr12\10oktyabr12\obj\Debug\net6.0\10oktyabr12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nuran\source\repos\10oktyabr12\10oktyabr12\obj\Debug\net6.0\10oktyabr12.AssemblyInfoInputs.cache
+C:\Users\Nuran\source\repos\10oktyabr12\10oktyabr12\obj\Debug\net6.0\10oktyabr12.AssemblyInfo.cs
+C:\Users\Nuran\source\repos\10oktyabr12\10oktyabr12\obj\Debug\net6.0\10oktyabr12.csproj.CoreCompileInputs.cache
+C:\Users\Nuran\source\repos\10oktyabr12\10oktyabr12\bin\Debug\net6.0\10oktyabr12.exe
+C:\Users\Nuran\source\repos\10oktyabr12\10oktyabr12\bin\Debug\net6.0\10oktyabr12.deps.json
+C:\Users\Nuran\source\repos\10oktyabr12\10oktyabr12\bin\Debug\net6.0\10oktyabr12.runtimeconfig.json
+C:\Users\Nuran\source\repos\10oktyabr12\10oktyabr12\bin\Debug\net6.0\10oktyabr12.dll
+C:\Users\Nuran\source\repos\10oktyabr12\10oktyabr12\bin\Debug\net6.0\10oktyabr12.pdb
+C:\Users\Nuran\source\repos\10oktyabr12\10oktyabr12\obj\Debug\net6.0\10oktyabr12.dll
+C:\Users\Nuran\source\repos\10oktyabr12\10oktyabr12\obj\Debug\net6.0\refint\10oktyabr12.dll
+C:\Users\Nuran\source\repos\10oktyabr12\10oktyabr12\obj\Debug\net6.0\10oktyabr12.pdb
+C:\Users\Nuran\source\repos\10oktyabr12\10oktyabr12\obj\Debug\net6.0\10oktyabr12.genruntimeconfig.cache
+C:\Users\Nuran\source\repos\10oktyabr12\10oktyabr12\obj\Debug\net6.0\ref\10oktyabr12.dll
